@@ -6,10 +6,15 @@ PODS:
 DEPENDENCIES:
   - OOMDetector
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - fishhook
+    - OOMDetector
+
 SPEC CHECKSUMS:
   fishhook: ea19933abfe8f2f52c55fd8b6e2718467d3ebc89
   OOMDetector: c23f4dfc969ea9bbd68a57cf7e5a3ca2169263cd
 
 PODFILE CHECKSUM: f9a8affa1b519e648d9b16899874fd79780123c8
 
-COCOAPODS: 1.1.1
+COCOAPODS: 1.7.0

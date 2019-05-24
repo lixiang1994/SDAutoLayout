@@ -161,6 +161,4 @@ extension SDAutoLayoutModel {
     public func offsetIs(_ value: CGFloat) -> SDAutoLayoutModel {
         return offset(value)
     }
-    
-    
 }
